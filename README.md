@@ -1,1 +1,1 @@
-# AI_ML_project
+This is project aims to automatically determine the sentiment (positive or negative) expressed in text data. In this project we compared the efficiency of three machine learning models, them being, naive bayes, logistic regression and random forest. This project contains three files, first one bieng an analysis of the data, second traing and testing the models and third is a simple desktop application where the user inputs text data and the sentiment is predicted.
